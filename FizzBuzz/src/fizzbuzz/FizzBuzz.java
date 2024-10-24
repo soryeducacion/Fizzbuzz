@@ -15,7 +15,7 @@ public class FizzBuzz {
         double b;
         String valor;
         String mensaje = "hola";
-       // valor = ( n % 3 ) ==0 ? "fizz" : "";
+        valor = ( n % 3 ) ==0 ? "fizz" : "";
         
         for(int x=1; x<=15; x++){
             boolean fizz = (x%3==0), buzz = (x%5==0);

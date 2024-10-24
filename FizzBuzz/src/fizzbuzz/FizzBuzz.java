@@ -14,7 +14,7 @@ public class FizzBuzz {
         int n = 14;
         double b;
         String valor;
-        
+        String mensaje = "hola";
        // valor = ( n % 3 ) ==0 ? "fizz" : "";
         
         for(int x=1; x<=15; x++){
